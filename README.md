@@ -8,6 +8,6 @@
 node index.js
 ```
 
-- Access the server on default Port 3000:
+- Access the server on default Port 3000
 
   `http://localhost:3000`
